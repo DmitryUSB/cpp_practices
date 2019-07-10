@@ -50,6 +50,17 @@ private:
 	char op;
 };
 
+/*
+Функция check_equals, принимает на вход два указателя на базовый класс Expression, 
+и возвращает true, если оба указателя указывают на самом деле 
+на объекты одного и того же класса, и false в противном случае
+*/
+bool check_equals(Expression const *left, Expression const *right)
+{
+    if (*((int**)left) == *((int**)right)) return true;
+	else return false;
+}
+
 int main()
 {
 	Expression* sube = new BinaryOperation(new Number(5), '*', new Number(5));
