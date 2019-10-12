@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28729.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "knap_Sack", "knap_Sack.vcxproj", "{F0C3F0B2-EB4D-48D2-9AB9-80EAC5352BAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0C3F0B2-EB4D-48D2-9AB9-80EAC5352BAD}.Debug|x64.ActiveCfg = Debug|x64
+		{F0C3F0B2-EB4D-48D2-9AB9-80EAC5352BAD}.Debug|x64.Build.0 = Debug|x64
+		{F0C3F0B2-EB4D-48D2-9AB9-80EAC5352BAD}.Debug|x86.ActiveCfg = Debug|Win32
+		{F0C3F0B2-EB4D-48D2-9AB9-80EAC5352BAD}.Debug|x86.Build.0 = Debug|Win32
+		{F0C3F0B2-EB4D-48D2-9AB9-80EAC5352BAD}.Release|x64.ActiveCfg = Release|x64
+		{F0C3F0B2-EB4D-48D2-9AB9-80EAC5352BAD}.Release|x64.Build.0 = Release|x64
+		{F0C3F0B2-EB4D-48D2-9AB9-80EAC5352BAD}.Release|x86.ActiveCfg = Release|Win32
+		{F0C3F0B2-EB4D-48D2-9AB9-80EAC5352BAD}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {067F5265-D0E0-4090-97E3-6662F0179F36}
+	EndGlobalSection
+EndGlobal
